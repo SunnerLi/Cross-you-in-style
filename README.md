@@ -23,6 +23,17 @@ Please cite our paper if you think our research or dataset for your research. \*
 
 [Cheng-Che Lee*](https://sunnerli.github.io/), [Wan-Yi Lin*](https://github.com/boop477), [Yen-Ting Shih](#), [Pei-Yi Patricia Kuo](https://www.iss.nthu.edu.tw/faculty/Pei-Yi-Patricia-Kuo), and [Li Su](https://www.iis.sinica.edu.tw/pages/lisu/index_en.html), "Crossing You in Style: Cross-modal Style Transfer from Music to Visual Arts", in ACM International Conference on Multimedia, 2020.
 
+
+```bibtex
+@inproceedings{lee2020crossing,
+  title={Crossing You in Style: Cross-modal Style Transfer from Music to Visual Arts},
+  author={Lee, Cheng-Che and Lin, Wan-Yi and Shih, Yen-Ting and Kuo, Pei-Yi and Su, Li},
+  booktitle={Proceedings of the 28th ACM International Conference on Multimedia},
+  pages={3219--3227},
+  year={2020}
+}
+```
+
 Method
 ---
 ![](https://raw.githubusercontent.com/SunnerLi/Cross-you-in-style/gh-pages/resources/overview.png)
